@@ -313,7 +313,7 @@ Data Analytics | Python | Exploratory Data Analysis | Streamlit
 | ---------------------- | ------------------------------------------------------ |
 | 🚀 Live Dashboard      | https://us-top50-playlist-analytics2026.streamlit.app/ |
 | 💻 GitHub Repository   | This repository                                        |
-| 📄 Research Paper      | `research/US_Top50_Playlist_Performance_Research_Paper.pdf`                                            |
+| 📄 Research Paper     |`research/US_Top50_Playlist_Performance_Research_Paper.pdf`|
 | 🎥 Project Walkthrough | Coming soon                                            |
 
 ---
