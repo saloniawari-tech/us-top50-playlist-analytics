@@ -114,6 +114,22 @@ The project analyzes:
 ## 🖥️ Interactive Streamlit Dashboard
 
 The project includes an interactive Streamlit application.
+### 📸 Dashboard Preview
+
+#### Executive Overview
+![Executive Overview](screenshots/01_executive_overview.png)
+
+#### Playlist Timeline Explorer
+![Playlist Timeline](screenshots/02_playlist_timeline.png)
+
+#### Song Ranking Trend
+![Song Ranking Trend](screenshots/03_song_ranking_trend.png)
+
+#### Artist Dominance
+![Artist Dominance](screenshots/04_artist_dominance.png)
+
+#### Popularity & Content Analysis
+![Popularity and Content Analysis](screenshots/05_popularity_content_analysis.png)
 
 ### Dashboard modules
 
@@ -250,7 +266,7 @@ The research paper documents the project's:
 * Limitations
 * Reproducibility approach
 
-**Research paper PDF:** `research/US_Top50_Playlist_Market_Research_Paper.pdf`
+**Research paper PDF:** (research/US_Top50_Playlist_Market_Research_Paper.pdf)
 
 ---
 
