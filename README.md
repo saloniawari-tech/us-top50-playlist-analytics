@@ -3,11 +3,12 @@
 ### Historical Playlist Performance, Song Popularity, Artist Visibility & Content Analysis
 
 **Author:** Saloni Awari
+
 **Live Dashboard:** https://us-top50-playlist-analytics2026.streamlit.app/
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes historical **United States Top 50 playlist data** to understand how songs, artists, rankings, popularity, and content attributes behave over time.
 
@@ -27,7 +28,7 @@ The goal is to transform daily playlist observations into an interactive analyti
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The analysis investigates:
 
@@ -42,7 +43,7 @@ The analysis investigates:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The final validated dataset contains:
 
@@ -52,7 +53,7 @@ The final validated dataset contains:
 | Daily snapshots       |                            **554** |
 | Unique songs          |                            **943** |
 | Unique artists        |                            **297** |
-| Date range            | **18 May 2024 – 27 November 2025** |
+| Date range            |      **19 Sep 2026 – 28 Sep 2026** |
 | Playlist positions    |                           **1–50** |
 
 ### Main fields
